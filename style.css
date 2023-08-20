@@ -1,3 +1,99 @@
 body {
   font-family: system-ui, sans-serif;
+  background-color: #001a33;
+}
+
+.arrow {
+}
+.button-arrow {
+}
+.button-text {
+}
+.card {
+  background-color: #001a33;
+}
+.discover {
+}
+.discover-arrow {
+}
+.discover__menu {
+}
+.discover__menu-items {
+}
+.discover__menu-items-down {
+}
+.discover__menu-items-down-items {
+}
+.discover__menu-items-down-items-arrow {
+}
+.discover__menu-items-down-items-text {
+}
+.discover__menu-items-up {
+}
+.discover__title {
+}
+.discover__title-text {
+}
+.excerpt {
+}
+.greece {
+  background-image: url(./assets/semina-psichogiopoulou-hl0iLy1hFo0-unsplash\ 2.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
+.greece__header {
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 1.625rem;
+  color: #f0f7ff;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.greece__main {
+}
+.greece__main-button {
+}
+.greece__main-excerpt {
+}
+.greece__main-title {
+}
+
+.header-center {
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+.header-right {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: flex-end;
+}
+.header-left-list {
+}
+.header-right-list {
+  display: flex;
+  gap: 1rem;
+}
+
+.header-center-list {
+  display: flex;
+  gap: 1rem;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.list-item {
+}
+
+.list-item span {
+  text-transform: capitalize;
+}
+.main-title__list {
+}
+.main-title__list-item {
 }
